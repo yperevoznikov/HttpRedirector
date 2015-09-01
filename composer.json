@@ -1,0 +1,23 @@
+{
+  "name": "yperevoznikov/redirector",
+  "description": "Helpers for different redirects",
+  "Type": "Library",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Yuriy Perevonikoz",
+      "email": "yuriless@gmail.com"
+    }
+  ],
+  "require": {},
+  "require-dev": {
+    "phpunit/phpunit": "~4.5"
+  },
+  "autoload": {
+    "psr-4": {"YPRedirector\\": "src"}
+  },
+  "autoload-dev": {
+    "psr-4": {"YPRedirector\\": "tests"}
+  }
+}
