@@ -1,5 +1,5 @@
 {
-  "name": "yperevoznikov/redirector",
+  "name": "yperevoznikov/httpredirector",
   "description": "Helpers for different redirects",
   "Type": "Library",
   "minimum-stability": "stable",
