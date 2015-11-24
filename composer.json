@@ -3,7 +3,7 @@
   "description": "Helpers for different redirects",
   "Type": "Library",
   "minimum-stability": "stable",
-  "license": "proprietary",
+  "license": "MIT",
   "authors": [
     {
       "name": "Yuriy Perevonikoz",
