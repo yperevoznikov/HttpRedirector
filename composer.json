@@ -4,6 +4,7 @@
   "Type": "Library",
   "minimum-stability": "stable",
   "license": "proprietary",
+  "version": "1.0.0",
   "authors": [
     {
       "name": "Yuriy Perevonikoz",
